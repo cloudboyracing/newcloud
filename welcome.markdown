@@ -1,7 +1,6 @@
 ---
 title: Welcome
 date: 2022-02-21 11:32:00 Z
-published: false
 layout: page
 ---
 
